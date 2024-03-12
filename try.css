@@ -1,0 +1,41 @@
+.box{
+    width: 600px;
+    min-height: 500px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    border: 1px solid black;
+    overflow-y: hidden;
+}
+
+ input{
+    width: 95%;
+    padding: 7px;
+    border-radius: 7px;
+    margin-top: 2px;
+    outline: none;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    position: relative;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    user-select: none;
+    margin-right: 45px;
+}
+
+
+/* body{
+    height: 100vb;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+} */
